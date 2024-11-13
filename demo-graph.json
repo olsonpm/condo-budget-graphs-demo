@@ -1,0 +1,3342 @@
+{
+  "Building Maintenance": {
+    "BUILDING MAINTENANCE": {
+      "runningTotal": {
+        "data": [
+          {
+            "id": "Building Maintenance_BUILDING MAINTENANCE_runningTotal-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 2896.21
+              },
+              {
+                "x": "feb",
+                "y": 7242.48
+              },
+              {
+                "x": "mar",
+                "y": 9337.51
+              },
+              {
+                "x": "apr",
+                "y": 9291.61
+              },
+              {
+                "x": "may",
+                "y": 9317.56
+              },
+              {
+                "x": "jun",
+                "y": 9326.64
+              },
+              {
+                "x": "jul",
+                "y": 9576.27
+              },
+              {
+                "x": "aug",
+                "y": 9914.07
+              },
+              {
+                "x": "sep",
+                "y": 9849.11
+              },
+              {
+                "x": "oct",
+                "y": 9948.63
+              }
+            ]
+          },
+          {
+            "id": "Building Maintenance_BUILDING MAINTENANCE_runningTotal-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 250
+              },
+              {
+                "x": "feb",
+                "y": 500
+              },
+              {
+                "x": "mar",
+                "y": 750
+              },
+              {
+                "x": "apr",
+                "y": 1000
+              },
+              {
+                "x": "may",
+                "y": 1250
+              },
+              {
+                "x": "jun",
+                "y": 1500
+              },
+              {
+                "x": "jul",
+                "y": 1750
+              },
+              {
+                "x": "aug",
+                "y": 2000
+              },
+              {
+                "x": "sep",
+                "y": 2250
+              },
+              {
+                "x": "oct",
+                "y": 2500
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": 0
+        }
+      },
+      "monthlyCost": {
+        "data": [
+          {
+            "id": "Building Maintenance_BUILDING MAINTENANCE_monthlyCost-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 2896.21
+              },
+              {
+                "x": "feb",
+                "y": 4346.27
+              },
+              {
+                "x": "mar",
+                "y": 2095.03
+              },
+              {
+                "x": "apr",
+                "y": -45.9
+              },
+              {
+                "x": "may",
+                "y": 25.95
+              },
+              {
+                "x": "jun",
+                "y": 9.08
+              },
+              {
+                "x": "jul",
+                "y": 249.63
+              },
+              {
+                "x": "aug",
+                "y": 337.8
+              },
+              {
+                "x": "sep",
+                "y": -64.96
+              },
+              {
+                "x": "oct",
+                "y": 99.52
+              }
+            ]
+          },
+          {
+            "id": "Building Maintenance_BUILDING MAINTENANCE_monthlyCost-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 250
+              },
+              {
+                "x": "feb",
+                "y": 250
+              },
+              {
+                "x": "mar",
+                "y": 250
+              },
+              {
+                "x": "apr",
+                "y": 250
+              },
+              {
+                "x": "may",
+                "y": 250
+              },
+              {
+                "x": "jun",
+                "y": 250
+              },
+              {
+                "x": "jul",
+                "y": 250
+              },
+              {
+                "x": "aug",
+                "y": 250
+              },
+              {
+                "x": "sep",
+                "y": 250
+              },
+              {
+                "x": "oct",
+                "y": 250
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": -64.96
+        }
+      }
+    },
+    "ELECTRICAL REPAIRS": {
+      "runningTotal": {
+        "data": [
+          {
+            "id": "Building Maintenance_ELECTRICAL REPAIRS_runningTotal-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 0
+              },
+              {
+                "x": "feb",
+                "y": 0
+              },
+              {
+                "x": "mar",
+                "y": 0
+              },
+              {
+                "x": "apr",
+                "y": 0
+              },
+              {
+                "x": "may",
+                "y": 0
+              },
+              {
+                "x": "jun",
+                "y": 0
+              },
+              {
+                "x": "jul",
+                "y": 0
+              },
+              {
+                "x": "aug",
+                "y": 0
+              },
+              {
+                "x": "sep",
+                "y": 44.19
+              },
+              {
+                "x": "oct",
+                "y": 44.19
+              }
+            ]
+          },
+          {
+            "id": "Building Maintenance_ELECTRICAL REPAIRS_runningTotal-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 27.5
+              },
+              {
+                "x": "feb",
+                "y": 55
+              },
+              {
+                "x": "mar",
+                "y": 82.5
+              },
+              {
+                "x": "apr",
+                "y": 110
+              },
+              {
+                "x": "may",
+                "y": 137.5
+              },
+              {
+                "x": "jun",
+                "y": 165
+              },
+              {
+                "x": "jul",
+                "y": 192.5
+              },
+              {
+                "x": "aug",
+                "y": 220
+              },
+              {
+                "x": "sep",
+                "y": 247.5
+              },
+              {
+                "x": "oct",
+                "y": 275
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": 0
+        }
+      },
+      "monthlyCost": {
+        "data": [
+          {
+            "id": "Building Maintenance_ELECTRICAL REPAIRS_monthlyCost-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 0
+              },
+              {
+                "x": "feb",
+                "y": 0
+              },
+              {
+                "x": "mar",
+                "y": 0
+              },
+              {
+                "x": "apr",
+                "y": 0
+              },
+              {
+                "x": "may",
+                "y": 0
+              },
+              {
+                "x": "jun",
+                "y": 0
+              },
+              {
+                "x": "jul",
+                "y": 0
+              },
+              {
+                "x": "aug",
+                "y": 0
+              },
+              {
+                "x": "sep",
+                "y": 44.19
+              },
+              {
+                "x": "oct",
+                "y": 0
+              }
+            ]
+          },
+          {
+            "id": "Building Maintenance_ELECTRICAL REPAIRS_monthlyCost-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 27.5
+              },
+              {
+                "x": "feb",
+                "y": 27.5
+              },
+              {
+                "x": "mar",
+                "y": 27.5
+              },
+              {
+                "x": "apr",
+                "y": 27.5
+              },
+              {
+                "x": "may",
+                "y": 27.5
+              },
+              {
+                "x": "jun",
+                "y": 27.5
+              },
+              {
+                "x": "jul",
+                "y": 27.5
+              },
+              {
+                "x": "aug",
+                "y": 27.5
+              },
+              {
+                "x": "sep",
+                "y": 27.5
+              },
+              {
+                "x": "oct",
+                "y": 27.5
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": 0
+        }
+      }
+    },
+    "CARPET - R&M": {
+      "runningTotal": {
+        "data": [
+          {
+            "id": "Building Maintenance_CARPET - R&M_runningTotal-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 0
+              },
+              {
+                "x": "feb",
+                "y": 0
+              },
+              {
+                "x": "mar",
+                "y": 0
+              },
+              {
+                "x": "apr",
+                "y": 0
+              },
+              {
+                "x": "may",
+                "y": 0
+              },
+              {
+                "x": "jun",
+                "y": 0
+              },
+              {
+                "x": "jul",
+                "y": 0
+              },
+              {
+                "x": "aug",
+                "y": 0
+              },
+              {
+                "x": "sep",
+                "y": 0
+              },
+              {
+                "x": "oct",
+                "y": 322.89
+              }
+            ]
+          },
+          {
+            "id": "Building Maintenance_CARPET - R&M_runningTotal-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 31.25
+              },
+              {
+                "x": "feb",
+                "y": 62.5
+              },
+              {
+                "x": "mar",
+                "y": 93.75
+              },
+              {
+                "x": "apr",
+                "y": 125
+              },
+              {
+                "x": "may",
+                "y": 156.25
+              },
+              {
+                "x": "jun",
+                "y": 187.5
+              },
+              {
+                "x": "jul",
+                "y": 218.75
+              },
+              {
+                "x": "aug",
+                "y": 250
+              },
+              {
+                "x": "sep",
+                "y": 281.25
+              },
+              {
+                "x": "oct",
+                "y": 312.5
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": 0
+        }
+      },
+      "monthlyCost": {
+        "data": [
+          {
+            "id": "Building Maintenance_CARPET - R&M_monthlyCost-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 0
+              },
+              {
+                "x": "feb",
+                "y": 0
+              },
+              {
+                "x": "mar",
+                "y": 0
+              },
+              {
+                "x": "apr",
+                "y": 0
+              },
+              {
+                "x": "may",
+                "y": 0
+              },
+              {
+                "x": "jun",
+                "y": 0
+              },
+              {
+                "x": "jul",
+                "y": 0
+              },
+              {
+                "x": "aug",
+                "y": 0
+              },
+              {
+                "x": "sep",
+                "y": 0
+              },
+              {
+                "x": "oct",
+                "y": 322.89
+              }
+            ]
+          },
+          {
+            "id": "Building Maintenance_CARPET - R&M_monthlyCost-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 31.25
+              },
+              {
+                "x": "feb",
+                "y": 31.25
+              },
+              {
+                "x": "mar",
+                "y": 31.25
+              },
+              {
+                "x": "apr",
+                "y": 31.25
+              },
+              {
+                "x": "may",
+                "y": 31.25
+              },
+              {
+                "x": "jun",
+                "y": 31.25
+              },
+              {
+                "x": "jul",
+                "y": 31.25
+              },
+              {
+                "x": "aug",
+                "y": 31.25
+              },
+              {
+                "x": "sep",
+                "y": 31.25
+              },
+              {
+                "x": "oct",
+                "y": 31.25
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": 0
+        }
+      }
+    },
+    "total": {
+      "runningTotal": {
+        "data": [
+          {
+            "id": "Building Maintenance_total_runningTotal-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 2896.21
+              },
+              {
+                "x": "feb",
+                "y": 7242.48
+              },
+              {
+                "x": "mar",
+                "y": 9337.51
+              },
+              {
+                "x": "apr",
+                "y": 9291.61
+              },
+              {
+                "x": "may",
+                "y": 9317.56
+              },
+              {
+                "x": "jun",
+                "y": 9326.64
+              },
+              {
+                "x": "jul",
+                "y": 9576.27
+              },
+              {
+                "x": "aug",
+                "y": 9914.07
+              },
+              {
+                "x": "sep",
+                "y": 9893.3
+              },
+              {
+                "x": "oct",
+                "y": 10315.71
+              }
+            ]
+          },
+          {
+            "id": "Building Maintenance_total_runningTotal-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 308.75
+              },
+              {
+                "x": "feb",
+                "y": 617.5
+              },
+              {
+                "x": "mar",
+                "y": 926.25
+              },
+              {
+                "x": "apr",
+                "y": 1235
+              },
+              {
+                "x": "may",
+                "y": 1543.75
+              },
+              {
+                "x": "jun",
+                "y": 1852.5
+              },
+              {
+                "x": "jul",
+                "y": 2161.25
+              },
+              {
+                "x": "aug",
+                "y": 2470
+              },
+              {
+                "x": "sep",
+                "y": 2778.75
+              },
+              {
+                "x": "oct",
+                "y": 3087.5
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": 0
+        }
+      },
+      "monthlyCost": {
+        "data": [
+          {
+            "id": "Building Maintenance_total_monthlyCost-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 2896.21
+              },
+              {
+                "x": "feb",
+                "y": 4346.27
+              },
+              {
+                "x": "mar",
+                "y": 2095.03
+              },
+              {
+                "x": "apr",
+                "y": -45.9
+              },
+              {
+                "x": "may",
+                "y": 25.95
+              },
+              {
+                "x": "jun",
+                "y": 9.08
+              },
+              {
+                "x": "jul",
+                "y": 249.63
+              },
+              {
+                "x": "aug",
+                "y": 337.8
+              },
+              {
+                "x": "sep",
+                "y": -20.77
+              },
+              {
+                "x": "oct",
+                "y": 422.41
+              }
+            ]
+          },
+          {
+            "id": "Building Maintenance_total_monthlyCost-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 308.75
+              },
+              {
+                "x": "feb",
+                "y": 308.75
+              },
+              {
+                "x": "mar",
+                "y": 308.75
+              },
+              {
+                "x": "apr",
+                "y": 308.75
+              },
+              {
+                "x": "may",
+                "y": 308.75
+              },
+              {
+                "x": "jun",
+                "y": 308.75
+              },
+              {
+                "x": "jul",
+                "y": 308.75
+              },
+              {
+                "x": "aug",
+                "y": 308.75
+              },
+              {
+                "x": "sep",
+                "y": 308.75
+              },
+              {
+                "x": "oct",
+                "y": 308.75
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": -45.9
+        }
+      }
+    }
+  },
+  "Grounds Maintenance": {
+    "CONTRACTED LAWN SERVICE": {
+      "runningTotal": {
+        "data": [
+          {
+            "id": "Grounds Maintenance_CONTRACTED LAWN SERVICE_runningTotal-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 0
+              },
+              {
+                "x": "feb",
+                "y": 0
+              },
+              {
+                "x": "mar",
+                "y": -126
+              },
+              {
+                "x": "apr",
+                "y": 27.53
+              },
+              {
+                "x": "may",
+                "y": 139.47
+              },
+              {
+                "x": "jun",
+                "y": 204.13
+              },
+              {
+                "x": "jul",
+                "y": 393.91
+              },
+              {
+                "x": "aug",
+                "y": 445.06
+              },
+              {
+                "x": "sep",
+                "y": 495.84
+              },
+              {
+                "x": "oct",
+                "y": 560.84
+              }
+            ]
+          },
+          {
+            "id": "Grounds Maintenance_CONTRACTED LAWN SERVICE_runningTotal-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 56.33
+              },
+              {
+                "x": "feb",
+                "y": 112.66
+              },
+              {
+                "x": "mar",
+                "y": 168.99
+              },
+              {
+                "x": "apr",
+                "y": 225.32
+              },
+              {
+                "x": "may",
+                "y": 281.65
+              },
+              {
+                "x": "jun",
+                "y": 337.98
+              },
+              {
+                "x": "jul",
+                "y": 394.31
+              },
+              {
+                "x": "aug",
+                "y": 450.64
+              },
+              {
+                "x": "sep",
+                "y": 506.97
+              },
+              {
+                "x": "oct",
+                "y": 563.3
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": -126
+        }
+      },
+      "monthlyCost": {
+        "data": [
+          {
+            "id": "Grounds Maintenance_CONTRACTED LAWN SERVICE_monthlyCost-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 0
+              },
+              {
+                "x": "feb",
+                "y": 0
+              },
+              {
+                "x": "mar",
+                "y": -126
+              },
+              {
+                "x": "apr",
+                "y": 153.53
+              },
+              {
+                "x": "may",
+                "y": 111.94
+              },
+              {
+                "x": "jun",
+                "y": 64.66
+              },
+              {
+                "x": "jul",
+                "y": 189.78
+              },
+              {
+                "x": "aug",
+                "y": 51.15
+              },
+              {
+                "x": "sep",
+                "y": 50.78
+              },
+              {
+                "x": "oct",
+                "y": 65
+              }
+            ]
+          },
+          {
+            "id": "Grounds Maintenance_CONTRACTED LAWN SERVICE_monthlyCost-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 56.33
+              },
+              {
+                "x": "feb",
+                "y": 56.33
+              },
+              {
+                "x": "mar",
+                "y": 56.33
+              },
+              {
+                "x": "apr",
+                "y": 56.33
+              },
+              {
+                "x": "may",
+                "y": 56.33
+              },
+              {
+                "x": "jun",
+                "y": 56.33
+              },
+              {
+                "x": "jul",
+                "y": 56.33
+              },
+              {
+                "x": "aug",
+                "y": 56.33
+              },
+              {
+                "x": "sep",
+                "y": 56.33
+              },
+              {
+                "x": "oct",
+                "y": 56.33
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": -126
+        }
+      }
+    },
+    "ADDITIONAL LANDSCAPE": {
+      "runningTotal": {
+        "data": [
+          {
+            "id": "Grounds Maintenance_ADDITIONAL LANDSCAPE_runningTotal-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 0
+              },
+              {
+                "x": "feb",
+                "y": 0
+              },
+              {
+                "x": "mar",
+                "y": 0
+              },
+              {
+                "x": "apr",
+                "y": 0
+              },
+              {
+                "x": "may",
+                "y": 46.47
+              },
+              {
+                "x": "jun",
+                "y": 46.47
+              },
+              {
+                "x": "jul",
+                "y": 608.09
+              },
+              {
+                "x": "aug",
+                "y": 608.09
+              },
+              {
+                "x": "sep",
+                "y": 608.09
+              },
+              {
+                "x": "oct",
+                "y": 608.09
+              }
+            ]
+          },
+          {
+            "id": "Grounds Maintenance_ADDITIONAL LANDSCAPE_runningTotal-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 210
+              },
+              {
+                "x": "feb",
+                "y": 420
+              },
+              {
+                "x": "mar",
+                "y": 630
+              },
+              {
+                "x": "apr",
+                "y": 840
+              },
+              {
+                "x": "may",
+                "y": 1050
+              },
+              {
+                "x": "jun",
+                "y": 1260
+              },
+              {
+                "x": "jul",
+                "y": 1470
+              },
+              {
+                "x": "aug",
+                "y": 1680
+              },
+              {
+                "x": "sep",
+                "y": 1890
+              },
+              {
+                "x": "oct",
+                "y": 2100
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": 0
+        }
+      },
+      "monthlyCost": {
+        "data": [
+          {
+            "id": "Grounds Maintenance_ADDITIONAL LANDSCAPE_monthlyCost-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 0
+              },
+              {
+                "x": "feb",
+                "y": 0
+              },
+              {
+                "x": "mar",
+                "y": 0
+              },
+              {
+                "x": "apr",
+                "y": 0
+              },
+              {
+                "x": "may",
+                "y": 46.47
+              },
+              {
+                "x": "jun",
+                "y": 0
+              },
+              {
+                "x": "jul",
+                "y": 561.62
+              },
+              {
+                "x": "aug",
+                "y": 0
+              },
+              {
+                "x": "sep",
+                "y": 0
+              },
+              {
+                "x": "oct",
+                "y": 0
+              }
+            ]
+          },
+          {
+            "id": "Grounds Maintenance_ADDITIONAL LANDSCAPE_monthlyCost-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 210
+              },
+              {
+                "x": "feb",
+                "y": 210
+              },
+              {
+                "x": "mar",
+                "y": 210
+              },
+              {
+                "x": "apr",
+                "y": 210
+              },
+              {
+                "x": "may",
+                "y": 210
+              },
+              {
+                "x": "jun",
+                "y": 210
+              },
+              {
+                "x": "jul",
+                "y": 210
+              },
+              {
+                "x": "aug",
+                "y": 210
+              },
+              {
+                "x": "sep",
+                "y": 210
+              },
+              {
+                "x": "oct",
+                "y": 210
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": 0
+        }
+      }
+    },
+    "SNOW SERVICES": {
+      "runningTotal": {
+        "data": [
+          {
+            "id": "Grounds Maintenance_SNOW SERVICES_runningTotal-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 0
+              },
+              {
+                "x": "feb",
+                "y": 0
+              },
+              {
+                "x": "mar",
+                "y": 0
+              },
+              {
+                "x": "apr",
+                "y": 0
+              },
+              {
+                "x": "may",
+                "y": 616
+              },
+              {
+                "x": "jun",
+                "y": 877.8
+              },
+              {
+                "x": "jul",
+                "y": 877.8
+              },
+              {
+                "x": "aug",
+                "y": 877.8
+              },
+              {
+                "x": "sep",
+                "y": 877.8
+              },
+              {
+                "x": "oct",
+                "y": 877.8
+              }
+            ]
+          },
+          {
+            "id": "Grounds Maintenance_SNOW SERVICES_runningTotal-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 134.75
+              },
+              {
+                "x": "feb",
+                "y": 269.5
+              },
+              {
+                "x": "mar",
+                "y": 404.25
+              },
+              {
+                "x": "apr",
+                "y": 539
+              },
+              {
+                "x": "may",
+                "y": 673.75
+              },
+              {
+                "x": "jun",
+                "y": 808.5
+              },
+              {
+                "x": "jul",
+                "y": 943.25
+              },
+              {
+                "x": "aug",
+                "y": 1078
+              },
+              {
+                "x": "sep",
+                "y": 1212.75
+              },
+              {
+                "x": "oct",
+                "y": 1347.5
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": 0
+        }
+      },
+      "monthlyCost": {
+        "data": [
+          {
+            "id": "Grounds Maintenance_SNOW SERVICES_monthlyCost-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 0
+              },
+              {
+                "x": "feb",
+                "y": 0
+              },
+              {
+                "x": "mar",
+                "y": 0
+              },
+              {
+                "x": "apr",
+                "y": 0
+              },
+              {
+                "x": "may",
+                "y": 616
+              },
+              {
+                "x": "jun",
+                "y": 261.8
+              },
+              {
+                "x": "jul",
+                "y": 0
+              },
+              {
+                "x": "aug",
+                "y": 0
+              },
+              {
+                "x": "sep",
+                "y": 0
+              },
+              {
+                "x": "oct",
+                "y": 0
+              }
+            ]
+          },
+          {
+            "id": "Grounds Maintenance_SNOW SERVICES_monthlyCost-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 134.75
+              },
+              {
+                "x": "feb",
+                "y": 134.75
+              },
+              {
+                "x": "mar",
+                "y": 134.75
+              },
+              {
+                "x": "apr",
+                "y": 134.75
+              },
+              {
+                "x": "may",
+                "y": 134.75
+              },
+              {
+                "x": "jun",
+                "y": 134.75
+              },
+              {
+                "x": "jul",
+                "y": 134.75
+              },
+              {
+                "x": "aug",
+                "y": 134.75
+              },
+              {
+                "x": "sep",
+                "y": 134.75
+              },
+              {
+                "x": "oct",
+                "y": 134.75
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": 0
+        }
+      }
+    },
+    "total": {
+      "runningTotal": {
+        "data": [
+          {
+            "id": "Grounds Maintenance_total_runningTotal-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 0
+              },
+              {
+                "x": "feb",
+                "y": 0
+              },
+              {
+                "x": "mar",
+                "y": -126
+              },
+              {
+                "x": "apr",
+                "y": 27.53
+              },
+              {
+                "x": "may",
+                "y": 801.94
+              },
+              {
+                "x": "jun",
+                "y": 1128.4
+              },
+              {
+                "x": "jul",
+                "y": 1879.8
+              },
+              {
+                "x": "aug",
+                "y": 1930.95
+              },
+              {
+                "x": "sep",
+                "y": 1981.73
+              },
+              {
+                "x": "oct",
+                "y": 2046.73
+              }
+            ]
+          },
+          {
+            "id": "Grounds Maintenance_total_runningTotal-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 401.08
+              },
+              {
+                "x": "feb",
+                "y": 802.16
+              },
+              {
+                "x": "mar",
+                "y": 1203.24
+              },
+              {
+                "x": "apr",
+                "y": 1604.32
+              },
+              {
+                "x": "may",
+                "y": 2005.4
+              },
+              {
+                "x": "jun",
+                "y": 2406.48
+              },
+              {
+                "x": "jul",
+                "y": 2807.56
+              },
+              {
+                "x": "aug",
+                "y": 3208.64
+              },
+              {
+                "x": "sep",
+                "y": 3609.72
+              },
+              {
+                "x": "oct",
+                "y": 4010.8
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": -126
+        }
+      },
+      "monthlyCost": {
+        "data": [
+          {
+            "id": "Grounds Maintenance_total_monthlyCost-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 0
+              },
+              {
+                "x": "feb",
+                "y": 0
+              },
+              {
+                "x": "mar",
+                "y": -126
+              },
+              {
+                "x": "apr",
+                "y": 153.53
+              },
+              {
+                "x": "may",
+                "y": 774.41
+              },
+              {
+                "x": "jun",
+                "y": 326.46
+              },
+              {
+                "x": "jul",
+                "y": 751.4
+              },
+              {
+                "x": "aug",
+                "y": 51.15
+              },
+              {
+                "x": "sep",
+                "y": 50.78
+              },
+              {
+                "x": "oct",
+                "y": 65
+              }
+            ]
+          },
+          {
+            "id": "Grounds Maintenance_total_monthlyCost-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 401.08
+              },
+              {
+                "x": "feb",
+                "y": 401.08
+              },
+              {
+                "x": "mar",
+                "y": 401.08
+              },
+              {
+                "x": "apr",
+                "y": 401.08
+              },
+              {
+                "x": "may",
+                "y": 401.08
+              },
+              {
+                "x": "jun",
+                "y": 401.08
+              },
+              {
+                "x": "jul",
+                "y": 401.08
+              },
+              {
+                "x": "aug",
+                "y": 401.08
+              },
+              {
+                "x": "sep",
+                "y": 401.08
+              },
+              {
+                "x": "oct",
+                "y": 401.08
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": -126
+        }
+      }
+    }
+  },
+  "Utilities": {
+    "ELECTRIC": {
+      "runningTotal": {
+        "data": [
+          {
+            "id": "Utilities_ELECTRIC_runningTotal-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 210
+              },
+              {
+                "x": "feb",
+                "y": 677.66
+              },
+              {
+                "x": "mar",
+                "y": 887.66
+              },
+              {
+                "x": "apr",
+                "y": 904.32
+              },
+              {
+                "x": "may",
+                "y": 1388.71
+              },
+              {
+                "x": "jun",
+                "y": 1514.71
+              },
+              {
+                "x": "jul",
+                "y": 1254.71
+              },
+              {
+                "x": "aug",
+                "y": 1414.71
+              },
+              {
+                "x": "sep",
+                "y": 1417.55
+              },
+              {
+                "x": "oct",
+                "y": 1516.55
+              }
+            ]
+          },
+          {
+            "id": "Utilities_ELECTRIC_runningTotal-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 199.5
+              },
+              {
+                "x": "feb",
+                "y": 399
+              },
+              {
+                "x": "mar",
+                "y": 598.5
+              },
+              {
+                "x": "apr",
+                "y": 798
+              },
+              {
+                "x": "may",
+                "y": 997.5
+              },
+              {
+                "x": "jun",
+                "y": 1197
+              },
+              {
+                "x": "jul",
+                "y": 1396.5
+              },
+              {
+                "x": "aug",
+                "y": 1596
+              },
+              {
+                "x": "sep",
+                "y": 1795.5
+              },
+              {
+                "x": "oct",
+                "y": 1995
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": 0
+        }
+      },
+      "monthlyCost": {
+        "data": [
+          {
+            "id": "Utilities_ELECTRIC_monthlyCost-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 210
+              },
+              {
+                "x": "feb",
+                "y": 467.66
+              },
+              {
+                "x": "mar",
+                "y": 210
+              },
+              {
+                "x": "apr",
+                "y": 16.66
+              },
+              {
+                "x": "may",
+                "y": 484.39
+              },
+              {
+                "x": "jun",
+                "y": 126
+              },
+              {
+                "x": "jul",
+                "y": -260
+              },
+              {
+                "x": "aug",
+                "y": 160
+              },
+              {
+                "x": "sep",
+                "y": 2.84
+              },
+              {
+                "x": "oct",
+                "y": 99
+              }
+            ]
+          },
+          {
+            "id": "Utilities_ELECTRIC_monthlyCost-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 199.5
+              },
+              {
+                "x": "feb",
+                "y": 199.5
+              },
+              {
+                "x": "mar",
+                "y": 199.5
+              },
+              {
+                "x": "apr",
+                "y": 199.5
+              },
+              {
+                "x": "may",
+                "y": 199.5
+              },
+              {
+                "x": "jun",
+                "y": 199.5
+              },
+              {
+                "x": "jul",
+                "y": 199.5
+              },
+              {
+                "x": "aug",
+                "y": 199.5
+              },
+              {
+                "x": "sep",
+                "y": 199.5
+              },
+              {
+                "x": "oct",
+                "y": 199.5
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": -260
+        }
+      }
+    },
+    "WATER/SEWER": {
+      "runningTotal": {
+        "data": [
+          {
+            "id": "Utilities_WATER/SEWER_runningTotal-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 47.21
+              },
+              {
+                "x": "feb",
+                "y": 624.08
+              },
+              {
+                "x": "mar",
+                "y": 759.5
+              },
+              {
+                "x": "apr",
+                "y": 1311.1
+              },
+              {
+                "x": "may",
+                "y": 1550.68
+              },
+              {
+                "x": "jun",
+                "y": 1941.53
+              },
+              {
+                "x": "jul",
+                "y": 1806.11
+              },
+              {
+                "x": "aug",
+                "y": 2035.28
+              },
+              {
+                "x": "sep",
+                "y": 2274.86
+              },
+              {
+                "x": "oct",
+                "y": 2480.8
+              }
+            ]
+          },
+          {
+            "id": "Utilities_WATER/SEWER_runningTotal-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 166.67
+              },
+              {
+                "x": "feb",
+                "y": 333.34
+              },
+              {
+                "x": "mar",
+                "y": 500.01
+              },
+              {
+                "x": "apr",
+                "y": 666.68
+              },
+              {
+                "x": "may",
+                "y": 833.35
+              },
+              {
+                "x": "jun",
+                "y": 1000.02
+              },
+              {
+                "x": "jul",
+                "y": 1166.69
+              },
+              {
+                "x": "aug",
+                "y": 1333.36
+              },
+              {
+                "x": "sep",
+                "y": 1500.03
+              },
+              {
+                "x": "oct",
+                "y": 1666.7
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": 0
+        }
+      },
+      "monthlyCost": {
+        "data": [
+          {
+            "id": "Utilities_WATER/SEWER_monthlyCost-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 47.21
+              },
+              {
+                "x": "feb",
+                "y": 576.87
+              },
+              {
+                "x": "mar",
+                "y": 135.42
+              },
+              {
+                "x": "apr",
+                "y": 551.6
+              },
+              {
+                "x": "may",
+                "y": 239.58
+              },
+              {
+                "x": "jun",
+                "y": 390.85
+              },
+              {
+                "x": "jul",
+                "y": -135.42
+              },
+              {
+                "x": "aug",
+                "y": 229.17
+              },
+              {
+                "x": "sep",
+                "y": 239.58
+              },
+              {
+                "x": "oct",
+                "y": 205.94
+              }
+            ]
+          },
+          {
+            "id": "Utilities_WATER/SEWER_monthlyCost-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 166.67
+              },
+              {
+                "x": "feb",
+                "y": 166.67
+              },
+              {
+                "x": "mar",
+                "y": 166.67
+              },
+              {
+                "x": "apr",
+                "y": 166.67
+              },
+              {
+                "x": "may",
+                "y": 166.67
+              },
+              {
+                "x": "jun",
+                "y": 166.67
+              },
+              {
+                "x": "jul",
+                "y": 166.67
+              },
+              {
+                "x": "aug",
+                "y": 166.67
+              },
+              {
+                "x": "sep",
+                "y": 166.67
+              },
+              {
+                "x": "oct",
+                "y": 166.67
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": -135.42
+        }
+      }
+    },
+    "TRASH REMOVAL": {
+      "runningTotal": {
+        "data": [
+          {
+            "id": "Utilities_TRASH REMOVAL_runningTotal-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 129.82
+              },
+              {
+                "x": "feb",
+                "y": 278.34
+              },
+              {
+                "x": "mar",
+                "y": 317.4
+              },
+              {
+                "x": "apr",
+                "y": 344.99
+              },
+              {
+                "x": "may",
+                "y": 431.01
+              },
+              {
+                "x": "jun",
+                "y": 509.13
+              },
+              {
+                "x": "jul",
+                "y": 573.6
+              },
+              {
+                "x": "aug",
+                "y": 624.64
+              },
+              {
+                "x": "sep",
+                "y": 701.2
+              },
+              {
+                "x": "oct",
+                "y": 770.58
+              }
+            ]
+          },
+          {
+            "id": "Utilities_TRASH REMOVAL_runningTotal-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 87.5
+              },
+              {
+                "x": "feb",
+                "y": 175
+              },
+              {
+                "x": "mar",
+                "y": 262.5
+              },
+              {
+                "x": "apr",
+                "y": 350
+              },
+              {
+                "x": "may",
+                "y": 437.5
+              },
+              {
+                "x": "jun",
+                "y": 525
+              },
+              {
+                "x": "jul",
+                "y": 612.5
+              },
+              {
+                "x": "aug",
+                "y": 700
+              },
+              {
+                "x": "sep",
+                "y": 787.5
+              },
+              {
+                "x": "oct",
+                "y": 875
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": 0
+        }
+      },
+      "monthlyCost": {
+        "data": [
+          {
+            "id": "Utilities_TRASH REMOVAL_monthlyCost-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 129.82
+              },
+              {
+                "x": "feb",
+                "y": 148.52
+              },
+              {
+                "x": "mar",
+                "y": 39.06
+              },
+              {
+                "x": "apr",
+                "y": 27.59
+              },
+              {
+                "x": "may",
+                "y": 86.02
+              },
+              {
+                "x": "jun",
+                "y": 78.12
+              },
+              {
+                "x": "jul",
+                "y": 64.47
+              },
+              {
+                "x": "aug",
+                "y": 51.04
+              },
+              {
+                "x": "sep",
+                "y": 76.56
+              },
+              {
+                "x": "oct",
+                "y": 69.38
+              }
+            ]
+          },
+          {
+            "id": "Utilities_TRASH REMOVAL_monthlyCost-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 87.5
+              },
+              {
+                "x": "feb",
+                "y": 87.5
+              },
+              {
+                "x": "mar",
+                "y": 87.5
+              },
+              {
+                "x": "apr",
+                "y": 87.5
+              },
+              {
+                "x": "may",
+                "y": 87.5
+              },
+              {
+                "x": "jun",
+                "y": 87.5
+              },
+              {
+                "x": "jul",
+                "y": 87.5
+              },
+              {
+                "x": "aug",
+                "y": 87.5
+              },
+              {
+                "x": "sep",
+                "y": 87.5
+              },
+              {
+                "x": "oct",
+                "y": 87.5
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": 0
+        }
+      }
+    },
+    "GAS-BUILDING": {
+      "runningTotal": {
+        "data": [
+          {
+            "id": "Utilities_GAS-BUILDING_runningTotal-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 67.22
+              },
+              {
+                "x": "feb",
+                "y": 87.62
+              },
+              {
+                "x": "mar",
+                "y": 112.62
+              },
+              {
+                "x": "apr",
+                "y": 127.89
+              },
+              {
+                "x": "may",
+                "y": 187.89
+              },
+              {
+                "x": "jun",
+                "y": 154.14
+              },
+              {
+                "x": "jul",
+                "y": 120.54
+              },
+              {
+                "x": "aug",
+                "y": 141.55
+              },
+              {
+                "x": "sep",
+                "y": 117.99
+              },
+              {
+                "x": "oct",
+                "y": 136.15
+              }
+            ]
+          },
+          {
+            "id": "Utilities_GAS-BUILDING_runningTotal-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 30
+              },
+              {
+                "x": "feb",
+                "y": 60
+              },
+              {
+                "x": "mar",
+                "y": 90
+              },
+              {
+                "x": "apr",
+                "y": 120
+              },
+              {
+                "x": "may",
+                "y": 150
+              },
+              {
+                "x": "jun",
+                "y": 180
+              },
+              {
+                "x": "jul",
+                "y": 210
+              },
+              {
+                "x": "aug",
+                "y": 240
+              },
+              {
+                "x": "sep",
+                "y": 270
+              },
+              {
+                "x": "oct",
+                "y": 300
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": 0
+        }
+      },
+      "monthlyCost": {
+        "data": [
+          {
+            "id": "Utilities_GAS-BUILDING_monthlyCost-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 67.22
+              },
+              {
+                "x": "feb",
+                "y": 20.4
+              },
+              {
+                "x": "mar",
+                "y": 25
+              },
+              {
+                "x": "apr",
+                "y": 15.27
+              },
+              {
+                "x": "may",
+                "y": 60
+              },
+              {
+                "x": "jun",
+                "y": -33.75
+              },
+              {
+                "x": "jul",
+                "y": -33.6
+              },
+              {
+                "x": "aug",
+                "y": 21.01
+              },
+              {
+                "x": "sep",
+                "y": -23.56
+              },
+              {
+                "x": "oct",
+                "y": 18.16
+              }
+            ]
+          },
+          {
+            "id": "Utilities_GAS-BUILDING_monthlyCost-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 30
+              },
+              {
+                "x": "feb",
+                "y": 30
+              },
+              {
+                "x": "mar",
+                "y": 30
+              },
+              {
+                "x": "apr",
+                "y": 30
+              },
+              {
+                "x": "may",
+                "y": 30
+              },
+              {
+                "x": "jun",
+                "y": 30
+              },
+              {
+                "x": "jul",
+                "y": 30
+              },
+              {
+                "x": "aug",
+                "y": 30
+              },
+              {
+                "x": "sep",
+                "y": 30
+              },
+              {
+                "x": "oct",
+                "y": 30
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": -33.75
+        }
+      }
+    },
+    "total": {
+      "runningTotal": {
+        "data": [
+          {
+            "id": "Utilities_total_runningTotal-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 454.25
+              },
+              {
+                "x": "feb",
+                "y": 1667.7
+              },
+              {
+                "x": "mar",
+                "y": 2077.18
+              },
+              {
+                "x": "apr",
+                "y": 2688.3
+              },
+              {
+                "x": "may",
+                "y": 3558.29
+              },
+              {
+                "x": "jun",
+                "y": 4119.51
+              },
+              {
+                "x": "jul",
+                "y": 3754.96
+              },
+              {
+                "x": "aug",
+                "y": 4216.18
+              },
+              {
+                "x": "sep",
+                "y": 4511.6
+              },
+              {
+                "x": "oct",
+                "y": 4904.08
+              }
+            ]
+          },
+          {
+            "id": "Utilities_total_runningTotal-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 483.67
+              },
+              {
+                "x": "feb",
+                "y": 967.34
+              },
+              {
+                "x": "mar",
+                "y": 1451.01
+              },
+              {
+                "x": "apr",
+                "y": 1934.68
+              },
+              {
+                "x": "may",
+                "y": 2418.35
+              },
+              {
+                "x": "jun",
+                "y": 2902.02
+              },
+              {
+                "x": "jul",
+                "y": 3385.69
+              },
+              {
+                "x": "aug",
+                "y": 3869.36
+              },
+              {
+                "x": "sep",
+                "y": 4353.03
+              },
+              {
+                "x": "oct",
+                "y": 4836.7
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": 0
+        }
+      },
+      "monthlyCost": {
+        "data": [
+          {
+            "id": "Utilities_total_monthlyCost-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 454.25
+              },
+              {
+                "x": "feb",
+                "y": 1213.45
+              },
+              {
+                "x": "mar",
+                "y": 409.48
+              },
+              {
+                "x": "apr",
+                "y": 611.12
+              },
+              {
+                "x": "may",
+                "y": 869.99
+              },
+              {
+                "x": "jun",
+                "y": 561.22
+              },
+              {
+                "x": "jul",
+                "y": -364.55
+              },
+              {
+                "x": "aug",
+                "y": 461.22
+              },
+              {
+                "x": "sep",
+                "y": 295.42
+              },
+              {
+                "x": "oct",
+                "y": 392.48
+              }
+            ]
+          },
+          {
+            "id": "Utilities_total_monthlyCost-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 483.67
+              },
+              {
+                "x": "feb",
+                "y": 483.67
+              },
+              {
+                "x": "mar",
+                "y": 483.67
+              },
+              {
+                "x": "apr",
+                "y": 483.67
+              },
+              {
+                "x": "may",
+                "y": 483.67
+              },
+              {
+                "x": "jun",
+                "y": 483.67
+              },
+              {
+                "x": "jul",
+                "y": 483.67
+              },
+              {
+                "x": "aug",
+                "y": 483.67
+              },
+              {
+                "x": "sep",
+                "y": 483.67
+              },
+              {
+                "x": "oct",
+                "y": 483.67
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": -364.55
+        }
+      }
+    }
+  },
+  "Administrative": {
+    "CPA SERVICES": {
+      "runningTotal": {
+        "data": [
+          {
+            "id": "Administrative_CPA SERVICES_runningTotal-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 0
+              },
+              {
+                "x": "feb",
+                "y": 0
+              },
+              {
+                "x": "mar",
+                "y": 0
+              },
+              {
+                "x": "apr",
+                "y": 980
+              },
+              {
+                "x": "may",
+                "y": 980
+              },
+              {
+                "x": "jun",
+                "y": 980
+              },
+              {
+                "x": "jul",
+                "y": 980
+              },
+              {
+                "x": "aug",
+                "y": 1054.25
+              },
+              {
+                "x": "sep",
+                "y": 1054.25
+              },
+              {
+                "x": "oct",
+                "y": 1054.25
+              }
+            ]
+          },
+          {
+            "id": "Administrative_CPA SERVICES_runningTotal-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 6.88
+              },
+              {
+                "x": "feb",
+                "y": 13.76
+              },
+              {
+                "x": "mar",
+                "y": 20.64
+              },
+              {
+                "x": "apr",
+                "y": 27.52
+              },
+              {
+                "x": "may",
+                "y": 34.4
+              },
+              {
+                "x": "jun",
+                "y": 41.28
+              },
+              {
+                "x": "jul",
+                "y": 48.16
+              },
+              {
+                "x": "aug",
+                "y": 55.04
+              },
+              {
+                "x": "sep",
+                "y": 61.92
+              },
+              {
+                "x": "oct",
+                "y": 68.8
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": 0
+        }
+      },
+      "monthlyCost": {
+        "data": [
+          {
+            "id": "Administrative_CPA SERVICES_monthlyCost-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 0
+              },
+              {
+                "x": "feb",
+                "y": 0
+              },
+              {
+                "x": "mar",
+                "y": 0
+              },
+              {
+                "x": "apr",
+                "y": 980
+              },
+              {
+                "x": "may",
+                "y": 0
+              },
+              {
+                "x": "jun",
+                "y": 0
+              },
+              {
+                "x": "jul",
+                "y": 0
+              },
+              {
+                "x": "aug",
+                "y": 74.25
+              },
+              {
+                "x": "sep",
+                "y": 0
+              },
+              {
+                "x": "oct",
+                "y": 0
+              }
+            ]
+          },
+          {
+            "id": "Administrative_CPA SERVICES_monthlyCost-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 6.88
+              },
+              {
+                "x": "feb",
+                "y": 6.88
+              },
+              {
+                "x": "mar",
+                "y": 6.88
+              },
+              {
+                "x": "apr",
+                "y": 6.88
+              },
+              {
+                "x": "may",
+                "y": 6.88
+              },
+              {
+                "x": "jun",
+                "y": 6.88
+              },
+              {
+                "x": "jul",
+                "y": 6.88
+              },
+              {
+                "x": "aug",
+                "y": 6.88
+              },
+              {
+                "x": "sep",
+                "y": 6.88
+              },
+              {
+                "x": "oct",
+                "y": 6.88
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": 0
+        }
+      }
+    },
+    "LEGAL EXPENSE": {
+      "runningTotal": {
+        "data": [
+          {
+            "id": "Administrative_LEGAL EXPENSE_runningTotal-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 0
+              },
+              {
+                "x": "feb",
+                "y": 0
+              },
+              {
+                "x": "mar",
+                "y": 142.83
+              },
+              {
+                "x": "apr",
+                "y": 142.83
+              },
+              {
+                "x": "may",
+                "y": 142.83
+              },
+              {
+                "x": "jun",
+                "y": -220.42
+              },
+              {
+                "x": "jul",
+                "y": -220.42
+              },
+              {
+                "x": "aug",
+                "y": -220.42
+              },
+              {
+                "x": "sep",
+                "y": -220.42
+              },
+              {
+                "x": "oct",
+                "y": -220.42
+              }
+            ]
+          },
+          {
+            "id": "Administrative_LEGAL EXPENSE_runningTotal-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 31.25
+              },
+              {
+                "x": "feb",
+                "y": 62.5
+              },
+              {
+                "x": "mar",
+                "y": 93.75
+              },
+              {
+                "x": "apr",
+                "y": 125
+              },
+              {
+                "x": "may",
+                "y": 156.25
+              },
+              {
+                "x": "jun",
+                "y": 187.5
+              },
+              {
+                "x": "jul",
+                "y": 218.75
+              },
+              {
+                "x": "aug",
+                "y": 250
+              },
+              {
+                "x": "sep",
+                "y": 281.25
+              },
+              {
+                "x": "oct",
+                "y": 312.5
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": -220.42
+        }
+      },
+      "monthlyCost": {
+        "data": [
+          {
+            "id": "Administrative_LEGAL EXPENSE_monthlyCost-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 0
+              },
+              {
+                "x": "feb",
+                "y": 0
+              },
+              {
+                "x": "mar",
+                "y": 142.83
+              },
+              {
+                "x": "apr",
+                "y": 0
+              },
+              {
+                "x": "may",
+                "y": 0
+              },
+              {
+                "x": "jun",
+                "y": -363.25
+              },
+              {
+                "x": "jul",
+                "y": 0
+              },
+              {
+                "x": "aug",
+                "y": 0
+              },
+              {
+                "x": "sep",
+                "y": 0
+              },
+              {
+                "x": "oct",
+                "y": 0
+              }
+            ]
+          },
+          {
+            "id": "Administrative_LEGAL EXPENSE_monthlyCost-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 31.25
+              },
+              {
+                "x": "feb",
+                "y": 31.25
+              },
+              {
+                "x": "mar",
+                "y": 31.25
+              },
+              {
+                "x": "apr",
+                "y": 31.25
+              },
+              {
+                "x": "may",
+                "y": 31.25
+              },
+              {
+                "x": "jun",
+                "y": 31.25
+              },
+              {
+                "x": "jul",
+                "y": 31.25
+              },
+              {
+                "x": "aug",
+                "y": 31.25
+              },
+              {
+                "x": "sep",
+                "y": 31.25
+              },
+              {
+                "x": "oct",
+                "y": 31.25
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": -363.25
+        }
+      }
+    },
+    "INSURANCE": {
+      "runningTotal": {
+        "data": [
+          {
+            "id": "Administrative_INSURANCE_runningTotal-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 0
+              },
+              {
+                "x": "feb",
+                "y": 630.56
+              },
+              {
+                "x": "mar",
+                "y": 630.56
+              },
+              {
+                "x": "apr",
+                "y": 630.56
+              },
+              {
+                "x": "may",
+                "y": 723.48
+              },
+              {
+                "x": "jun",
+                "y": 823.05
+              },
+              {
+                "x": "jul",
+                "y": 899.39
+              },
+              {
+                "x": "aug",
+                "y": 1805.47
+              },
+              {
+                "x": "sep",
+                "y": 1905.04
+              },
+              {
+                "x": "oct",
+                "y": 2004.61
+              }
+            ]
+          },
+          {
+            "id": "Administrative_INSURANCE_runningTotal-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 201.25
+              },
+              {
+                "x": "feb",
+                "y": 402.5
+              },
+              {
+                "x": "mar",
+                "y": 603.75
+              },
+              {
+                "x": "apr",
+                "y": 805
+              },
+              {
+                "x": "may",
+                "y": 1006.25
+              },
+              {
+                "x": "jun",
+                "y": 1207.5
+              },
+              {
+                "x": "jul",
+                "y": 1408.75
+              },
+              {
+                "x": "aug",
+                "y": 1610
+              },
+              {
+                "x": "sep",
+                "y": 1811.25
+              },
+              {
+                "x": "oct",
+                "y": 2012.5
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": 0
+        }
+      },
+      "monthlyCost": {
+        "data": [
+          {
+            "id": "Administrative_INSURANCE_monthlyCost-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 0
+              },
+              {
+                "x": "feb",
+                "y": 630.56
+              },
+              {
+                "x": "mar",
+                "y": 0
+              },
+              {
+                "x": "apr",
+                "y": 0
+              },
+              {
+                "x": "may",
+                "y": 92.92
+              },
+              {
+                "x": "jun",
+                "y": 99.57
+              },
+              {
+                "x": "jul",
+                "y": 76.34
+              },
+              {
+                "x": "aug",
+                "y": 906.08
+              },
+              {
+                "x": "sep",
+                "y": 99.57
+              },
+              {
+                "x": "oct",
+                "y": 99.57
+              }
+            ]
+          },
+          {
+            "id": "Administrative_INSURANCE_monthlyCost-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 201.25
+              },
+              {
+                "x": "feb",
+                "y": 201.25
+              },
+              {
+                "x": "mar",
+                "y": 201.25
+              },
+              {
+                "x": "apr",
+                "y": 201.25
+              },
+              {
+                "x": "may",
+                "y": 201.25
+              },
+              {
+                "x": "jun",
+                "y": 201.25
+              },
+              {
+                "x": "jul",
+                "y": 201.25
+              },
+              {
+                "x": "aug",
+                "y": 201.25
+              },
+              {
+                "x": "sep",
+                "y": 201.25
+              },
+              {
+                "x": "oct",
+                "y": 201.25
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": 0
+        }
+      }
+    },
+    "total": {
+      "runningTotal": {
+        "data": [
+          {
+            "id": "Administrative_total_runningTotal-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 0
+              },
+              {
+                "x": "feb",
+                "y": 630.56
+              },
+              {
+                "x": "mar",
+                "y": 773.39
+              },
+              {
+                "x": "apr",
+                "y": 1753.39
+              },
+              {
+                "x": "may",
+                "y": 1846.31
+              },
+              {
+                "x": "jun",
+                "y": 1582.63
+              },
+              {
+                "x": "jul",
+                "y": 1658.97
+              },
+              {
+                "x": "aug",
+                "y": 2639.3
+              },
+              {
+                "x": "sep",
+                "y": 2738.87
+              },
+              {
+                "x": "oct",
+                "y": 2838.44
+              }
+            ]
+          },
+          {
+            "id": "Administrative_total_runningTotal-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 239.38
+              },
+              {
+                "x": "feb",
+                "y": 478.76
+              },
+              {
+                "x": "mar",
+                "y": 718.14
+              },
+              {
+                "x": "apr",
+                "y": 957.52
+              },
+              {
+                "x": "may",
+                "y": 1196.9
+              },
+              {
+                "x": "jun",
+                "y": 1436.28
+              },
+              {
+                "x": "jul",
+                "y": 1675.66
+              },
+              {
+                "x": "aug",
+                "y": 1915.04
+              },
+              {
+                "x": "sep",
+                "y": 2154.42
+              },
+              {
+                "x": "oct",
+                "y": 2393.8
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": 0
+        }
+      },
+      "monthlyCost": {
+        "data": [
+          {
+            "id": "Administrative_total_monthlyCost-actual",
+            "data": [
+              {
+                "x": "jan",
+                "y": 0
+              },
+              {
+                "x": "feb",
+                "y": 630.56
+              },
+              {
+                "x": "mar",
+                "y": 142.83
+              },
+              {
+                "x": "apr",
+                "y": 980
+              },
+              {
+                "x": "may",
+                "y": 92.92
+              },
+              {
+                "x": "jun",
+                "y": -263.68
+              },
+              {
+                "x": "jul",
+                "y": 76.34
+              },
+              {
+                "x": "aug",
+                "y": 980.33
+              },
+              {
+                "x": "sep",
+                "y": 99.57
+              },
+              {
+                "x": "oct",
+                "y": 99.57
+              }
+            ]
+          },
+          {
+            "id": "Administrative_total_monthlyCost-budget",
+            "data": [
+              {
+                "x": "jan",
+                "y": 239.38
+              },
+              {
+                "x": "feb",
+                "y": 239.38
+              },
+              {
+                "x": "mar",
+                "y": 239.38
+              },
+              {
+                "x": "apr",
+                "y": 239.38
+              },
+              {
+                "x": "may",
+                "y": 239.38
+              },
+              {
+                "x": "jun",
+                "y": 239.38
+              },
+              {
+                "x": "jul",
+                "y": 239.38
+              },
+              {
+                "x": "aug",
+                "y": 239.38
+              },
+              {
+                "x": "sep",
+                "y": 239.38
+              },
+              {
+                "x": "oct",
+                "y": 239.38
+              }
+            ]
+          }
+        ],
+        "yScale": {
+          "min": -263.68
+        }
+      }
+    }
+  }
+}

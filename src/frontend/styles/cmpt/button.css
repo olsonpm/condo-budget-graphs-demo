@@ -1,0 +1,13 @@
+.MuiButton-root.cb-button {
+  font-size: var(--font-size-control);
+
+  @mixin tablet-and-larger {
+    padding: 12px 30px;
+  }
+  @mixin mobile {
+    padding: 10px 26px;
+  }
+  @mixin mobile-small {
+    padding: 8px 22px;
+  }
+}

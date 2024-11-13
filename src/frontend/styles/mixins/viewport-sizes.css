@@ -1,0 +1,95 @@
+@define-mixin desktop {
+  @media (min-width: $(desktop-min)) {
+    @mixin-content;
+  }
+}
+
+@define-mixin mobile {
+  @media (min-width: $(mobile-min)) and (max-width: $(mobile-max)) {
+    @mixin-content;
+  }
+}
+
+@define-mixin mobile-and-larger {
+  @media (min-width: $(mobile-min)) {
+    @mixin-content;
+  }
+}
+
+@define-mixin mobile-and-smaller {
+  @media (max-width: $(mobile-max)) {
+    @mixin-content;
+  }
+}
+
+@define-mixin mobile-small {
+  @media (max-width: $(mobile-small-max)) {
+    @mixin-content;
+  }
+}
+
+@define-mixin tablet {
+  @media (min-width: $(tablet-min)) and (max-width: $(tablet-max)) {
+    @mixin-content;
+  }
+}
+
+@define-mixin tablet-and-larger {
+  @media (min-width: $(tablet-min)) {
+    @mixin-content;
+  }
+}
+
+@define-mixin tablet-and-smaller {
+  @media (max-width: $(tablet-max)) {
+    @mixin-content;
+  }
+}
+
+@define-mixin all-but-desktop {
+  @include mobile {
+    @mixin-content;
+  }
+  @include mobile-small {
+    @mixin-content;
+  }
+  @include tablet {
+    @mixin-content;
+  }
+}
+
+@define-mixin all-but-mobile {
+  @include desktop {
+    @mixin-content;
+  }
+  @include mobile-small {
+    @mixin-content;
+  }
+  @include tablet {
+    @mixin-content;
+  }
+}
+
+@define-mixin all-but-mobile-small {
+  @include desktop {
+    @mixin-content;
+  }
+  @include mobile {
+    @mixin-content;
+  }
+  @include tablet {
+    @mixin-content;
+  }
+}
+
+@define-mixin all-but-tablet {
+  @include desktop {
+    @mixin-content;
+  }
+  @include mobile {
+    @mixin-content;
+  }
+  @include mobile-small {
+    @mixin-content;
+  }
+}

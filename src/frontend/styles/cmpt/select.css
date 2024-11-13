@@ -1,0 +1,26 @@
+.MuiInputBase-root.cb-select {
+  font-size: var(--font-size-control);
+
+  @mixin tablet-and-larger {
+    width: 350px;
+
+    .MuiSelect-select {
+      padding-top: 8px;
+      padding-bottom: 8px;
+    }
+  }
+  @mixin mobile {
+    width: 300px;
+  }
+  @mixin mobile-small {
+    width: 100%;
+    max-width: 300px;
+  }
+
+  .MuiSelect-select {
+    @mixin mobile-and-smaller {
+      padding-top: 6px;
+      padding-bottom: 6px;
+    }
+  }
+}

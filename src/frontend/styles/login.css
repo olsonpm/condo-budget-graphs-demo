@@ -1,0 +1,37 @@
+h1 {
+  @mixin tablet-and-larger {
+    margin-bottom: 60px;
+  }
+  @mixin mobile {
+    margin-bottom: 40px;
+  }
+  @mixin mobile-small {
+    margin-bottom: 20px;
+  }
+}
+
+#log-in {
+  font-weight: 600;
+  margin-right: 30px;
+}
+
+#forgot {
+  font-weight: 600;
+}
+
+.actions {
+  margin-top: 30px !important;
+}
+
+.invalid-credentials {
+  border-left: 4px solid #f44336;
+  display: block;
+  font-size: 20px;
+  padding: 10px 0 10px 20px;
+}
+
+.form-stack {
+  > * + * {
+    margin-top: 30px !important;
+  }
+}

@@ -1,0 +1,10 @@
+.MuiTextField-root.cb-textfield {
+  font-size: var(--font-size-control);
+
+  .cb-textfield-input {
+    font-size: var(--font-size-control);
+  }
+  .cb-textfield-input-label {
+    font-size: var(--font-size-control);
+  }
+}

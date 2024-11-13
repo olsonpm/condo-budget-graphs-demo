@@ -1,0 +1,76 @@
+@import './dialog.css';
+
+html {
+  font-family: 'Nunito Sans', sans;
+}
+
+body {
+  padding-bottom: 10px;
+  @mixin tablet-and-larger {
+    padding-top: 60px;
+  }
+  @mixin mobile {
+    padding-top: 40px;
+  }
+  @mixin mobile-small {
+    padding-top: 30px;
+  }
+}
+
+#app {
+  height: 100%;
+  width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Quicksand, serif;
+  font-weight: normal;
+}
+
+h1 {
+  @mixin tablet-and-larger {
+    font-size: 50px;
+  }
+  @mixin mobile {
+    font-size: 42px;
+  }
+  @mixin mobile-small {
+    font-size: 34px;
+  }
+}
+
+h2 {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.content-frame {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1200px;
+  position: relative;
+
+  @mixin tablet-and-larger {
+    padding-left: 80px;
+    padding-right: 80px;
+  }
+  @mixin mobile {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  @mixin mobile-small {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}

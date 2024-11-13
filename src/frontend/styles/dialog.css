@@ -1,0 +1,17 @@
+.dialog {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 20px;
+  .content {
+    display: flex;
+    flex-direction: column;
+    line-height: 1.2;
+    padding: 20px 30px;
+  }
+}
+
+.close-dialog {
+  align-self: end;
+  margin-top: 40px !important;
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+}

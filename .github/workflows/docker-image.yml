@@ -1,0 +1,48 @@
+name: Docker Image CI
+
+on:
+  push:
+    branches: [ "dev-demo" ]
+  pull_request:
+    branches: [ "dev-demo" ]
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Use Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '22.x'
+    - name: Init pnpm
+      uses: pnpm/action-setup@v4
+    - name: Build dist
+      run: |
+        pnpm install --frozen-lockfile
+        mkdir config data
+        cp demo-graph.json data/graph.json
+        cp demo-config.json config/client.json
+        pnpx vite build -c vite.app.config.mjs --base=/condo-budget-graphs-demo/
+    - name: Upload static files as artifact
+      id: deployment
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: ./dist/app/
+
+  deploy:
+    runs-on: ubuntu-latest
+
+    permissions:
+      pages: write
+      id-token: write
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{steps.deployment.outputs.page_url}}
+    steps:
+      - name: Deploy To Github Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,16 @@
+:root {
+  --transition-dur: $transitionDur;
+
+  @mixin tablet-and-larger {
+    --font-size-control: 25px;
+    --font-size-label: 30px;
+  }
+  @mixin mobile {
+    --font-size-control: 22px;
+    --font-size-label: 26px;
+  }
+  @mixin mobile-small {
+    --font-size-control: 20px;
+    --font-size-label: 24px;
+  }
+}
