@@ -1,0 +1,20 @@
+header {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 50px;
+
+  nav {
+    align-self: end;
+
+    .current-page.Mui-disabled {
+      color: white;
+      cursor: text;
+      pointer-events: unset;
+      user-select: text;
+
+      &:hover {
+        background-color: unset;
+      }
+    }
+  }
+}

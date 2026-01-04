@@ -1,0 +1,48 @@
+.category {
+  margin-top: 60px;
+
+  table.line-items {
+    border-collapse: collapse;
+
+    tr {
+      /* hack to get div filling vertical td space */
+      height: 1px;
+    }
+    th,
+    td {
+      padding-left: 12px;
+      padding-right: 12px;
+    }
+    th {
+      font-weight: normal;
+    }
+    td {
+      font-family: 'Noto Sans Mono';
+      text-align: right;
+      height: inherit;
+    }
+    thead {
+      th {
+        text-align: center;
+
+        &.running {
+          border-left: 1px solid white;
+        }
+      }
+      tr:nth-child(2) th:not(:first-child) {
+        border-bottom: 1px solid white;
+        padding-bottom: px;
+      }
+    }
+    tr.total {
+      th,
+      td {
+        padding-top: 6px;
+      }
+    }
+    tbody th {
+      text-align: right;
+      width: 320px;
+    }
+  }
+}

@@ -2,5 +2,6 @@
 @import './fonts.css';
 @import './reset.css';
 @import './viewport-classes.css';
+@import './options.css';
 @import './site.css';
 @import './cmpt/index.css';

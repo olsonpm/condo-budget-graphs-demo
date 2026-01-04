@@ -1,0 +1,8 @@
+.interactive-legend {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: absolute;
+  bottom: 130px;
+  right: 0;
+}

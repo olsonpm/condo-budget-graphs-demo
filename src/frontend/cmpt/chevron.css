@@ -1,0 +1,25 @@
+.chevron {
+  &:not(.slow) {
+    @mixin transition transform;
+  }
+  &.slow {
+    @mixin transition-slow transform;
+  }
+
+  &.vertical {
+    transform: rotate(90deg);
+  }
+  &.vertical.expanded {
+    transform: rotate(270deg);
+  }
+  &.horizontal {
+    transform: rotate(0deg);
+  }
+  &.horizontal.expanded {
+    transform: rotate(180deg);
+  }
+
+  > path {
+    fill: var(--primary);
+  }
+}

@@ -1,7 +1,12 @@
+import path from 'node:path'
 import globals from 'globals'
 import react from 'eslint-plugin-react'
 import reactHooks from 'eslint-plugin-react-hooks'
 import reactRefresh from 'eslint-plugin-react-refresh'
+import { createNodeResolver } from 'eslint-plugin-import-x'
+
+const { dirname } = import.meta
+const fromRoot = fpath => path.resolve(dirname, fpath)
 
 const reactCfg = react.configs.flat
 
@@ -25,7 +30,21 @@ const reactRefreshCompatCfg = {
 }
 
 export default [
-  { settings: { react: { version: 'detect' } } },
+  {
+    settings: {
+      react: { version: 'detect' },
+      'import-x/resolver-next': [
+        createNodeResolver({
+          alias: {
+            '@/*': [`${fromRoot('src/frontend')}/*`],
+            '@data/*': [`${fromRoot('data/app-ready')}/*`],
+            '@shared': [fromRoot('shared/index.mjs')],
+          },
+          extensions: ['.mjs', '.js', '.json', '.jsx'],
+        }),
+      ],
+    },
+  },
   reactCfg.recommended,
   reactCfg['jsx-runtime'],
   reactHooksCompatCfg,

@@ -1,0 +1,21 @@
+.slice-tooltip {
+  background-color: #454545;
+  color: white;
+  padding: 8px 16px;
+}
+
+.slice-tooltip_point {
+  + .slice-tooltip_point {
+    margin-top: 6px;
+  }
+
+  .color {
+    display: inline-block;
+    height: 12px;
+    width: 12px;
+  }
+
+  .value {
+    margin-left: 8px;
+  }
+}

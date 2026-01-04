@@ -3,6 +3,8 @@ import { defineConfig } from 'vite'
 import mkcert from 'vite-plugin-mkcert'
 import react from '@vitejs/plugin-react'
 
+const fromRoot = fpath => path.resolve(import.meta.dirname, fpath)
+
 const buildConfig = (cfg = {}) => {
   const ro = cfg.build?.rollupOptions || {}
 
@@ -25,8 +27,9 @@ const buildConfig = (cfg = {}) => {
     resolve: {
       ...(cfg.resolve || {}),
       alias: {
-        '@': path.resolve(import.meta.dirname, 'src/frontend'),
-        '@data': path.resolve(import.meta.dirname, 'data'),
+        '@': fromRoot('src/frontend'),
+        '@data': fromRoot('data/app-ready'),
+        '@shared': fromRoot('shared/index.mjs'),
         ...(cfg.resolve?.alias || {}),
       },
     },

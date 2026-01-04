@@ -1,0 +1,53 @@
+.line-button {
+  display: flex;
+  font-size: 16px;
+  gap: 12px;
+  padding: 2px 0 2px 16px !important;
+
+  > * {
+    display: inilne-block;
+  }
+
+  @mixin tablet-and-larger {
+    font-size: 18px !important;
+  }
+  @mixin mobile {
+    font-size: 16px !important;
+  }
+  @mixin mobile-small {
+    font-size: 14px !important;
+  }
+}
+
+.line-button_circle {
+  border-radius: 50%;
+  height: 16px;
+  width: 16px;
+}
+
+.line-button_label {
+  text-align: start;
+
+  &.with-year {
+    @mixin tablet-and-larger {
+      width: 100px;
+    }
+    @mixin mobile {
+      width: 90px;
+    }
+    @mixin mobile-small {
+      width: 80px;
+    }
+  }
+  &.without-year {
+    @mixin tablet-and-larger {
+      width: 70px;
+    }
+    @mixin mobile {
+      width: 60px;
+    }
+    @mixin mobile-small {
+      width: 50px;
+    }
+  }
+}

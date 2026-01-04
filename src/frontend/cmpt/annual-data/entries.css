@@ -1,0 +1,27 @@
+section.entries {
+  td,
+  th {
+    font-size: 22px;
+    padding: 4px 16px;
+  }
+  th {
+    font-weight: normal;
+    text-align: start;
+  }
+
+  h2 {
+    display: inline-block;
+    margin-bottom: 0;
+
+    /* to visually center vertically */
+    padding-bottom: 4px;
+  }
+}
+
+ul.monthly-entries {
+  margin-left: 30px;
+
+  li + li {
+    margin-top: 40px;
+  }
+}

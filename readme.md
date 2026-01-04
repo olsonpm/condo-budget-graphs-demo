@@ -2,19 +2,25 @@
 
 [See it in action](https://olsonpm.github.io/condo-budget-graphs-demo/)
 
-This is the demo version of a simple website I built to graphically represent
-our condo's budget which is hidden away in excel spreadsheets.  The real version
+### What Is It?
+
+The demo version of my condo budget website. I generate demo data to show its
+various features. The real version parses data from excel spreadsheets and
 requires authentication.
 
-This was built very quickly.  It is disorganized - but it works and I am
-happy with how it looks.
+I built the initial draft in a hurry, so the code isn't the prettiest. Over
+time, I've built out more features and am proud of where it's at today.
+
+### Why build it?
+
+I'm the treasurer at my condo and wanted a way to both easily view and convey
+the data to residents.
 
 ### To get it working locally
 
 1. enable pnpm
 
 ```sh
-# requires node v16.13+
 $ corepack enable pnpm
 ```
 
@@ -22,13 +28,6 @@ $ corepack enable pnpm
 
 ```sh
 $ pnpm install --frozen-lockfile
+$ pnpm build-demo-data
 $ pnpm dev
 ```
-
-### How this works
-
-This repo contains demo graph data, but the actual data is built using our
-condo's budget spreadsheets.  The script to do this is
-`./scripts/build-budget-and-graph-data/index.mjs`.  This script first reads
-monthly expenses and annual budgets, then calculates running totals and finally
-translates that into json compatible with [nivo](https://nivo.rocks/).

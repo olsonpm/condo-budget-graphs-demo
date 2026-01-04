@@ -1,15 +1,15 @@
 import fsp from 'node:fs/promises'
 import path from 'node:path'
-import { dataDir } from './build-budget-and-graph-data/utils/index.mjs'
-import calculateBudgetAndExpenses from './build-budget-and-graph-data/calculate-budget-and-expenses.mjs'
-import buildGraphData from './build-budget-and-graph-data/build-graph-data.mjs'
+import { dir } from './utils.mjs'
+import calculateReport from './build-data/calculate-report.mjs'
+import buildGraphData from './build-data/build-graph-data.mjs'
 
 run()
 
 async function run() {
   try {
     const demoBudget = await getDemoBudgetData()
-    const calculatedBudgetAndExpenses = calculateBudgetAndExpenses(demoBudget)
+    const calculatedBudgetAndExpenses = calculateReport(demoBudget)
     const demoGraphData = buildGraphData(calculatedBudgetAndExpenses)
 
     await Promise.all([
@@ -24,13 +24,13 @@ async function run() {
 
 async function getDemoBudgetData() {
   return JSON.parse(
-    await fsp.readFile(path.resolve(dataDir, 'demo-budget.json'))
+    await fsp.readFile(path.resolve(dir.dataBuilt, 'demo-budget.json'))
   )
 }
 
 function write(fname, data) {
   return fsp.writeFile(
-    path.resolve(dataDir, `${fname}.json`),
+    path.resolve(dir.dataBuilt, `${fname}.json`),
     JSON.stringify(data, null, 2)
   )
 }

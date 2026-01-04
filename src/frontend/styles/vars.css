@@ -1,5 +1,10 @@
 :root {
   --transition-dur: $transitionDur;
+  --transition-dur-slow: $transitionDurSlow;
+  --bg: #121212;
+  --fg: white;
+  --bg-off: color-mix(in srgb, var(--bg), var(--fg) 8%);
+  --primary: #9793ff;
 
   @mixin tablet-and-larger {
     --font-size-control: 25px;

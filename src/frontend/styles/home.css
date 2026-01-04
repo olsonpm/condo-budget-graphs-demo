@@ -1,0 +1,25 @@
+.graph {
+  position: relative;
+  width: 100%;
+
+  @mixin tablet-and-larger {
+    height: 600px;
+  }
+  @mixin mobile {
+    height: 450px;
+  }
+  @mixin mobile-small {
+    height: 400px;
+  }
+}
+
+.category-item {
+  white-space: pre !important;
+}
+
+.bottom {
+  display: flex;
+  justify-content: end;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}

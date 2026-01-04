@@ -1,4 +1,4 @@
-B# Logs
+# Logs
 logs
 *.log
 npm-debug.log*
@@ -30,3 +30,5 @@ dist-ssr
 /container/
 /config/
 /.env
+/todo.txt
+/test.mjs

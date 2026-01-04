@@ -1,3 +1,4 @@
 {
-  "myEmail": "some-email@example.com"
+  "myEmail": "unused@example.com",
+  "isDemo": true
 }

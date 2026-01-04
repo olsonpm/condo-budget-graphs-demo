@@ -24,5 +24,4 @@ mkdir -p "${libDir}"
 
 cp -r package.json pnpm-lock.yaml .nvmrc dist "${libDir}"
 
-docker build --tag "${docker_package_url}:latest" .
-docker tag "${docker_package_url}:latest" "${imgUri}"
+docker build --tag "${docker_package_url}:latest" --tag "${imgUri}" .

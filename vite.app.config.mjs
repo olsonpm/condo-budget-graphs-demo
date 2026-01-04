@@ -6,6 +6,8 @@ export default buildConfig({
     rollupOptions: {
       input: {
         index: 'index.html',
+        compare: 'compare.html',
+        month: 'month.html',
       },
     },
   },

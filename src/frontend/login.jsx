@@ -46,7 +46,7 @@ const Login = () => {
   return (
     <>
       <header className="content-frame">
-        <h1>Condo Budget Graphs 2024</h1>
+        <h1>Condo Budget Graphs</h1>
       </header>
       <div className="content-frame">
         <form onSubmit={onSubmit}>

@@ -1,0 +1,16 @@
+.tooltip-content {
+  background-color: var(--bg);
+  border: 1px solid var(--fg);
+  font-size: 18px;
+  max-width: 500px;
+  padding: 12px 16px;
+  z-index: 100;
+
+  p:first-of-type {
+    margin-top: 0;
+  }
+}
+
+.tooltip-activator {
+  height: 100%;
+}

@@ -1,0 +1,15 @@
+@import '@/styles/common-index.css';
+
+dl {
+  display: grid;
+  grid-gap: 4px 30px;
+  grid-template-columns: max-content max-content;
+}
+
+dd {
+  margin: 0;
+  grid-column-start: 2;
+  font-family: 'Noto Sans Mono';
+  text-align: end;
+  width: 100%;
+}

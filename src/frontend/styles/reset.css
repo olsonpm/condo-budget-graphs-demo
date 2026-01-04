@@ -9,6 +9,8 @@
 html {
   -moz-text-size-adjust: none;
   -webkit-text-size-adjust: none;
+  min-height: 100vh;
+  line-height: 1.5;
   text-size-adjust: none;
 }
 
@@ -30,12 +32,6 @@ dd {
 ul[role='list'],
 ol[role='list'] {
   list-style: none;
-}
-
-/* Set core body defaults */
-body {
-  min-height: 100vh;
-  line-height: 1.5;
 }
 
 /* Set shorter line heights on headings and interactive elements */

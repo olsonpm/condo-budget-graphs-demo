@@ -1,0 +1,19 @@
+@import '../vars.css';
+
+@define-mixin transition $props {
+  transition-property: $props;
+  transition-duration: var(--transition-dur);
+}
+
+@define-mixin transition-slow $props {
+  transition-property: $props;
+  transition-duration: var(--transition-dur-slow);
+}
+
+@define-mixin hover {
+  @media (hover: hover) {
+    &:hover {
+      @mixin-content;
+    }
+  }
+}

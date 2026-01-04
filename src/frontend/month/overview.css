@@ -1,0 +1,23 @@
+.overview {
+  h2 {
+    margin-bottom: 30px;
+  }
+
+  .total-expense-types {
+    margin-left: 40px;
+
+    li {
+      margin-top: 20px;
+    }
+  }
+
+  dd > .MuiButton-root.cb-button.link-to-graph {
+    display: flex;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: fit-content;
+    padding: 0 16px;
+    width: fit-content;
+  }
+}

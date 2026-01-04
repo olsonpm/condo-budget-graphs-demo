@@ -1,0 +1,31 @@
+label {
+  font-size: var(--font-size-label);
+}
+
+ul.selectors {
+  li + li {
+    margin-top: 20px;
+  }
+
+  li {
+    display: flex;
+
+    @mixin mobile-and-larger {
+      align-items: center;
+
+      label {
+        width: 150px;
+        margin-right: 16px;
+      }
+    }
+
+    @mixin mobile-small {
+      align-items: start;
+      flex-direction: column;
+
+      label {
+        margin-bottom: 10px;
+      }
+    }
+  }
+}

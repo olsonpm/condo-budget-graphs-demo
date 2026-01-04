@@ -1,11 +1,15 @@
-import roundToNearest from './round-to-nearest.js'
+import roundToNearest from 'common-fp/round-to-nearest'
 
 const roundToNearestTenth = roundToNearest('0.1')
 
 const contentSizePx = 1200
 const contentSize = `${contentSizePx}px`
 const transitionDurSeconds = 0.2
+const transitionDurSlowSeconds = 0.4
+const transitionDurMs = transitionDurSeconds * 1000
+const transitionDurSlowMs = transitionDurSlowSeconds * 1000
 const transitionDur = `${transitionDurSeconds}s`
+const transitionDurSlow = `${transitionDurSlowSeconds}s`
 
 /**
  * custom breakpoints
@@ -34,12 +38,16 @@ const bp = {
 const styleVariables = {
   contentSize,
   transitionDur,
+  transitionDurSlow,
   ...bp,
 }
 
 const jsFriendly = {
   contentSizePx,
   transitionDurSeconds,
+  transitionDurSlowSeconds,
+  transitionDurMs,
+  transitionDurSlowMs,
   bp: {
     desktopMin: desktopMinPx,
     tabletMax: tabletMaxPx,
