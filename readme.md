@@ -28,6 +28,6 @@ $ corepack enable pnpm
 
 ```sh
 $ pnpm install --frozen-lockfile
-$ pnpm build-demo-data
+$ pnpm prep-demo
 $ pnpm dev
 ```

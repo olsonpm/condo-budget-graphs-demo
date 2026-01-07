@@ -21,8 +21,6 @@ jobs:
       - name: Build dist
         run: |
           pnpm install --frozen-lockfile
-          pnpm build-demo-data
-          mkdir config && cp ./demo-config.json config/client.json
           pnpm build-demo-app
       - name: Upload static files as artifact
         id: deployment
